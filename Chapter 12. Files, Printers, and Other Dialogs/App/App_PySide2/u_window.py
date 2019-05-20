@@ -38,7 +38,7 @@ class UWindow(UWin):                           # Create the Main Window.
         self.twid2 = UWid()                    # Second widget for tabwidget.
         self.twid3 = UWid()                    # Third widget for tab widget.
         self.tabwid.addTab(self.twid1, "Applications")
-        self.tabwid.addTab(self.twid2, "Visualisation")
+        self.tabwid.addTab(self.twid2, "Visualization")
         self.tabwid.addTab(self.twid3, "Documents")
         self.setCentralWidget(self.tabwid)     # Central widget as tabwidget.
         self.stat_bar = USBar()                # Create status bar object.

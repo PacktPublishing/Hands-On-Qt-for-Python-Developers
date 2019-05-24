@@ -3,15 +3,15 @@ from u_tools import UTools                     # Importing the Utools class.
 from u_style import UWid, UFrame, ULabel       # Importing styled widgets.
 from u_style import ULineEd, UTextEd           # Importing styled widgets.
 from u_window import UWindow                   # Importing the Main Window.
-import enchant                                 # Importing the package.
-from u_adds import UHighLight                  # Text highlighting.
+# import enchant                               # Importing the package.
+# from u_adds import UHighLight                # Text highlighting.
 
 
 class UApp(UWindow, UTools):                   # Create the main class.
     
     def __init__(self, parent=None):           # Constructor of the class.
         super(UApp, self).__init__(parent)     # Initialization of the class.
-        UTools.__init__(self)                  # Initialisation of the class
+        UTools.__init__(self)                  # Initialization of the class
         print(self.us1)                        # with functions and string.
         self.frame1 = UFrame(self.twid3)       # Create the first frame with
         self.frame1.setLineWidth(3)            # parent as third widget.
@@ -44,9 +44,9 @@ class UApp(UWindow, UTools):                   # Create the main class.
         self.lay1.addWidget(self.frame1, 0, 0, 1, 1)
         self.lay1.addWidget(self.frame2, 0, 1, 1, 1)
         self.twid3.setLayout(self.lay1)        # Will be represented by grid.
-        self.dicts = enchant.Dict("en_US")     # Set the dictionary.
-        self.highlighter = UHighLight(self.text_edit.document())
-        self.highlighter.setDict(self.dicts)   # set dict to highlighter.
+        # self.dicts = enchant.Dict("en_US")     # Set the dictionary.
+        # self.highlighter = UHighLight(self.text_edit.document())
+        # self.highlighter.setDict(self.dicts)   # set dict to highlighter.
         
 
 if __name__ == "__main__":                     # If file will run, will main.

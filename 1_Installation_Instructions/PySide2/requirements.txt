@@ -1,0 +1,12 @@
+clang
+PySide2>=5.9
+scipy
+numpy
+matplotlib
+pandas
+pyenchant
+psycopg2
+psycopg2-binary
+PyMySQL
+pymongo
+CouchDB

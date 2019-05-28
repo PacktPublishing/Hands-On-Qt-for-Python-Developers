@@ -1,0 +1,11 @@
+################################
+####### QtQuick versions #######
+################################
+# These versions used in the QML documents.
+# In relation to the used Qt version import section of the QML files should be chanded.
+ Qt5.7.x -> import QtQuick 2.7  | import QtQuick.Controls 2.0
+ Qt5.8.x -> import QtQuick 2.8  | import QtQuick.Controls 2.1
+ Qt5.9.x -> import QtQuick 2.9  | import QtQuick.Controls 2.2
+Qt5.10.x -> import QtQuick 2.10 | import QtQuick.Controls 2.3
+Qt5.11.x -> import QtQuick 2.11 | import QtQuick.Controls 2.4
+Qt5.12.x -> import QtQuick 2.12 | import QtQuick.Controls 2.12

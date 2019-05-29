@@ -18,7 +18,7 @@ class UApp(UWindow, UTools):                   # Create the main class.
     def __init__(self, parent=None):           # Constructor of the class.
         super(UApp, self).__init__(parent)     # Initialization of the class.
         UTools.__init__(self)                  # Initialization of the tools
-        print self.us1                         # class with functions.
+        # print self.us1                       # class with functions.
         self.apps = QtQuickWidgets.QQuickWidget(self.twid1)
         self.apps.setSource(QtCore.QUrl("apps.qml"))
         self.properties = self.apps.rootObject()

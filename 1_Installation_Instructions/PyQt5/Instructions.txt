@@ -1,7 +1,7 @@
-#######################
+#####################
 ####### PyQt5 #######
-#######################
-### Instalation instructions for PyQt5 Python Binding ###
+#####################
+### Instalation instructions for PyQt5 Python Binding #####
 ###########################################################
 ### ANACONDA with Python 2.7 version ###
 # The PyQt5 is installed by default.

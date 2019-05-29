@@ -9,7 +9,7 @@ class UApp(UWindow, UTools):                   # Create the main class.
     def __init__(self, parent=None):           # Constructor of the class.
         super(UApp, self).__init__(parent)     # Initialization of the class.
         UTools.__init__(self)                  # Initialization of the
-        print(self.us1)                        # class with functions.
+        # print(self.us1)                      # class with functions.
 
 
 if __name__ == "__main__":                     # If file run, name will main.

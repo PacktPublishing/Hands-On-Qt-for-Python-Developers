@@ -12,7 +12,7 @@ class UApp(UWindow, UTools):                   # Create the main class.
     def __init__(self, parent=None):           # Constructor of the class.
         super(UApp, self).__init__(parent)     # Initialization of the class.
         UTools.__init__(self)                  # Initialization of the class
-        print(self.us1)                        # with functions and string.
+        # print(self.us1)                      # with functions and string.
         self.frame1 = UFrame(self.twid3)       # Create the first frame with
         self.frame1.setLineWidth(3)            # parent as third widget.
         self.frame1.setFrameStyle(6)           # Styled panel frame style.

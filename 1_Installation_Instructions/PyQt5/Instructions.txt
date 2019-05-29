@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ### ANACONDA with Python 3.7 version ###
 # The PyQt5 is installed by default.
 # Creating of the conda virtual environment is recommended.
-conda create -n myenv python=2.7 pip=19.1
+conda create -n myenv python=3.7 pip=19.1
 cd to/the/folder/requirements.txt
 conda activate myenv
 pip install -r requirements.txt

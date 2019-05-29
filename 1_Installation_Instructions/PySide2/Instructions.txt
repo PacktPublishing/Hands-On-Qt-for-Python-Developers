@@ -4,14 +4,14 @@
 ### Instalation instructions for PySide2 Python Binding ###
 ###########################################################
 ### ANACONDA with Python 2.7 version ###
-# Creating of the conda virtual environment is recommended.
+# Creation of the conda virtual environment is recommended.
 conda create -n myenv python=2.7 pip=19.1
 cd to/the/folder/requirements.txt 
 conda activate myenv
 pip install -r requirements.txt
 ###########################################################
 ### ANACONDA with Python 3.7 version ###
-# Creating of the conda virtual environment is recommended.
+# Creation of the conda virtual environment is recommended.
 conda create -n myenv python=3.7 pip=19.1
 conda activate myenv
 cd to/the/folder/requirements.txt
@@ -25,4 +25,4 @@ pip install -r requirements.txt
 cd to/the/folder/requirements.txt
 pip install -r requirements.txt
 ###########################################################
-# The dependencies for the Pyide2 are specified in the requirements.txt that available in this folder.
+# The dependencies for Pyide2 are specified in the requirements.txt that is available in this folder.

@@ -5,7 +5,6 @@ scipy
 numpy
 matplotlib
 pandas
-pyenchant
 psycopg2
 psycopg2-binary
 PyMySQL

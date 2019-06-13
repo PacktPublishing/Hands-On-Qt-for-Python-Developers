@@ -39,7 +39,7 @@ This book is for Python developers who want to develop GUIs and cross-platform a
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
+| Sr. No. | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1 | Qt 5.9, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
 | 2 | Python 3.7, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |

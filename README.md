@@ -52,7 +52,7 @@ With the following software and hardware list you can run all code files present
 | 9 | PyQt5, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
 | 10 | pyqtdeploy, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https:/?/?www.?packtpub.?com/?sites/?default/files/?downloads/?9781789612790_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://www.packtpub.com/sites/default/files/downloads/9781789612790_ColorImages.pdf).
 
 ### Related products
 * Qt5 Python GUI Programming Cookbook  [[Packt]](https://www.packtpub.com/application-development/qt5-python-gui-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781788831000) [[Amazon]](https://www.amazon.com/dp/1788831004)

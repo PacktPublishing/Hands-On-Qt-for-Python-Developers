@@ -37,7 +37,7 @@ self.uaps1 = "I am a coder, and I do"
 **Following is what you need for this book:**
 This book is for Python developers who want to develop GUIs and cross-platform applications that are modern, responsive, and attractive. No prior knowledge of Qt or QML is required.
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-10).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-17).
 ### Software and Hardware List
 | Sr. No. | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |

@@ -1,8 +1,0 @@
-[Desktop Entry]
-Path=/home/vkirichinets/SCIENCE/BOOK/Packt/Book/Chapter17/App/App_PyQt5/
-Exec=/home/vkirichinets/anaconda3/bin/python /home/vkirichinets/SCIENCE/BOOK/Packt/Book/Chapter17/App/App_PyQt5/u_app.py
-Icon=/home/vkirichinets/SCIENCE/BOOK/Packt/Book/Chapter17/App/App_PyQt5/Icons/python1.png
-Name=UAPP
-StartupNotify=true
-Terminal=false
-Type=Application

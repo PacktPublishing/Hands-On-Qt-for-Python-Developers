@@ -42,16 +42,16 @@ With the following software and hardware list you can run all code files present
 ### Software and Hardware List
 | Sr. No. | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
-| 1 | Qt 5.9, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 2 | Python 3.7, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 3 | Python 2.7, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 4 | Dev C++, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 5 | GCC, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 6 | Anaconda 3, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 7 | Anaconda 2, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 8 |  PySide2, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 9 | PyQt5, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
-| 10 | pyqtdeploy, System with 4GB RAM | Windows, Mac OS X, and Linux (Any) |
+| 1 | Qt 5.9 | Windows, Mac OS X, and Linux (Any) |
+| 2 | Python 3.7 | Windows, Mac OS X, and Linux (Any) |
+| 3 | Python 2.7 | Windows, Mac OS X, and Linux (Any) |
+| 4 | Dev C++ | Windows, Mac OS X, and Linux (Any) |
+| 5 | GCC | Windows, Mac OS X, and Linux (Any) |
+| 6 | Anaconda 3 | Windows, Mac OS X, and Linux (Any) |
+| 7 | Anaconda 2 | Windows, Mac OS X, and Linux (Any) |
+| 8 | PySide2 | Windows, Mac OS X, and Linux (Any) |
+| 9 | PyQt5 | Windows, Mac OS X, and Linux (Any) |
+| 10 | pyqtdeploy | Windows, Mac OS X, and Linux (Any) |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://www.packtpub.com/sites/default/files/downloads/9781789612790_ColorImages.pdf).
 

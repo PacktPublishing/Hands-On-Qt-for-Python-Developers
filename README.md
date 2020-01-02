@@ -29,9 +29,10 @@ The code will look like the following:
 ```
 ...
 class UApp(UTools):
-def __init__(self):
-UTools.__init__(self)
-self.uaps1 = "I am a coder, and I do"
+
+  def __init__(self):
+    UTools.__init__(self)
+    self.uaps1 = "I am a coder, and I do"
 ```
 
 **Following is what you need for this book:**

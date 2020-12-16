@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-qt-for-python-developers/9781789612790)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Hands-On Qt for Python Developers 
 
 <a href="https://www.packtpub.com/application-development/hands-qt-python-developers?utm_source=github&utm_medium=repository&utm_campaign=9781789612790"><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/2/7/2790cover.png" alt="Hands-On Qt for Python Developers " height="256px" align="right"></a>
